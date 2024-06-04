@@ -26,8 +26,8 @@ const names = [
   '황재민',
 ];
 
-const makeMember = require('./work-3.js');
-console.log(makeMember(1, '이연승'));
+const makeMember = require(`./work-2.js`);
+console.log(makeMember(1, '정호연'));
 
 let arrayMembers = [];
 
